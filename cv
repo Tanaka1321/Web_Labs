@@ -9,11 +9,33 @@ I am a responsible and goal-oriented student with an interest in programming and
 
 ---
 
+## Skills
+- **Programming languages:** C# (basics)
+- **Web technologies:** HTML (learning)
+- **Databases:** SQL (learning)
+- **Tools:** Visual Studio, Git (basics)
+
+---
+
+## Code Example
+### "Reference Management" project in C# (Windows Forms)
+
+Full project code available on GitHub:  
+[github.com/Tanaka1321/Lr6.git](https://github.com/Tanaka1321/Lr6.git)
+
+*The project demonstrates CRUD operations, Windows Forms, DataGridView, and data lists.*
+
+---
+
+## Projects
+- **Car Database (Console Application)** - C#, .NET, File I/O
+- **CV Website** - HTML
+- **Reference Management (Windows Forms)** - C#, Windows Forms, DataGridView
+
+---
+
 ## Education
 **2024 - present:** Belarusian-Russian University
 - Faculty: Electrical Engineering
 - Specialty: Software Engineering
 - Group: ASOIR-241
----
-
-© 2026 Daniil Ivanovich Timoshchenko, group ASOIR-241. All rights reserved.
