@@ -4,7 +4,7 @@
 
 Ссылка на страницу CV на GitHub Pages:
 
-[https://github.com/Tanaka1321/Web_Labs/blob/Markdown/cv](https://github.com/Tanaka1321/Web_Labs/blob/Markdown/cv)
+[https://github.com/Tanaka1321/Web_Labs/blob/Markdown/cv](https://github.com/Tanaka1321/Web_Labs/blob/Markdown/cv.md)
 
 ---
 
